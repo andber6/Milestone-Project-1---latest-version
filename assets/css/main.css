@@ -1,0 +1,271 @@
+html, body {
+    height:100%;
+    width:100%;
+    font-family:'Roboto', sans-serif;
+    color:#222;
+}
+/* --------------------Navbar*/
+.navbar {
+    padding: .8rem;
+}
+.navbar-nav li {
+    padding-right:20px;
+}
+.nav-link {
+    font-size:1.1em;
+}
+.navbar {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.25);
+    z-index: 1;
+}
+
+/* --------------------carousel*/
+.carousel {
+    width:100%;
+    height:700px;
+}
+
+.carousel-item img{
+    position:relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.carousel-caption {
+    position:absolute;
+    color:#fff;
+    text-transform:uppercase;
+    text-shadow:1px 1px 15px #000;
+}
+.carousel-inner {
+    background-repeat: no-repeat;
+    text-align:center;
+    background-color:#050506;
+    height:100%;
+}
+.carousel-btn {
+    margin:5px;
+    background-color:#76d7c4;
+    border:0;
+    height:40px;
+    margin-bottom:10px;
+    color:#222;
+    transform:translateY(-20%);
+    z-index: 10;
+}
+.carousel-btn:hover {
+    background-color:#17a589;
+}
+
+/* -------------------- h4 title */
+
+.mylife-title {
+    margin: auto;
+    text-align: center;
+}
+/* --------------------Lets connect! */
+
+.fa-facebook {
+    color: #3b5998;
+    margin:15px;
+}
+.fa-instagram {
+    color:#517fa8;
+    margin:15px;
+}
+.fa-envelope {
+    color:#dd4b39;
+    margin:15px;
+}
+.fa-linkedin {
+    color:#4875B4;
+    margin:15px;
+}
+.social-links {
+    font-size: 20px;
+}
+/* --------------------Footer*/
+footer {
+    background-color:#3f3f3f;
+    color:#d5d5d5;
+    padding-top:2rem;
+}
+.cv-pdf i:hover {
+    color: #17a589;
+}
+/* --------------------Extras*/
+hr.light {
+    border-top:1px solid #d5d5d5;
+    width:75%;
+    margin-top:.8rem;
+    margin-bottom:1rem;
+}
+
+.html5 {
+    background-color: #f72020;
+}
+.css3 {
+    background-color:#1b30fc;
+}
+.JavaScript {
+    background-color:#e6e913;
+}
+.pic-heading {
+    margin:30px;
+    font-weight: bold;
+    padding:20px;
+}
+
+/* ------------------- my life section */
+.mylife {
+    border:solid;
+    text-align: center;
+    margin:auto;
+    position: relative;
+}
+
+.frontendicons {
+    font-size:3rem;
+    margin:5px;
+}
+.progressbars-fe {
+    margin-top:45px;
+}
+.fa-code {
+    color:#f72020;
+}
+.fa-css3-alt {
+    color:#1b30fc;
+}
+.fa-js-square {
+    color:#e6e913;
+}
+.frontend-title {
+    font-weight:bold;
+}
+.experience-heading {
+    margin:30px;
+    margin-bottom: 50px;
+}
+.phonenumber {
+    text-decoration: none;
+}
+/* ------------------ pictures */
+.mystory {
+    display:block;
+    height:350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:50% auto;
+    position:relative;
+    margin:auto;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+.about-me-pic {
+    margin:20px;
+    width:450px;
+    height:auto;
+    display: inline-block;
+}
+.footer-pic img {
+    height:140px;
+    width:140px;
+    border-radius:140px;
+}
+.navbar-pic a img {
+    width:70px;
+    height:70px;
+    margin:5px;
+    padding:0;
+    border:0;
+    border-radius: 70px;
+}
+.experience-pic {
+    float:right;
+    width:300px;
+    height: auto;
+    position:relative;
+    display:inline-block;
+    background-position: center;
+    margin: auto;
+    padding:10px;
+}
+.mewchain-pic {
+    text-align: center;
+    height:60vh;
+    width:auto;
+    background-repeat: no-repeat;
+    position: relative;
+}
+/* --------------------- About */
+.about-section {
+    background-color:#f2f4f4;
+    margin-top: 50px;
+}
+.about-paragraphs {
+    text-align: center;
+    display: inline-block;
+}
+
+/* ---------------------- contact form */
+.contact-details {
+    width:400px;
+    height:45px;
+}
+.contactme-title {
+    position:relative;
+    padding:20px;
+    font-size:3rem;
+}
+textarea {
+    font-size:150%;
+}
+.contactme-form {
+    margin:20px;
+    background-color:#f2f4f4;
+}
+
+form {
+    text-align:center;
+    display:block;
+    margin:10px;
+}
+.form-btn {
+    border-radius:8px;
+    background-color:#000;
+    border:0;
+    margin:5px;
+    color:#fff;
+}
+.form-btn:hover {
+    background-color:#252522;
+    color:gray;
+}
+.fname,
+.email,
+.message {
+    position: relative;
+    margin:10px;
+}
+/*-------------------- progress bars */
+.progress {
+    background-color: #fff;
+    animation: progressBar 4s ease-in-out;
+    animation-fill-mode:both;
+    animation-iteration-count: 1;
+}
+.progressbars-container {
+    margin:20px;
+}
+.progress-bar-section {
+    height:550px;
+    position:relative;
+}
+@keyframes progressBar {
+  0% { width: 0; }
+  100% { width: 100%; }
+}
+
