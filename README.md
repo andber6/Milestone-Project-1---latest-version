@@ -1,4 +1,4 @@
-## My first website! Milestoje project 1 by André Bergan
+## My first website! Milestone project 1 by André Bergan
 # PROJECT PURPOSE
 This website presents my work for the first milestone project. 
 This is my very first project I have done after starting to learn about software development. 
@@ -8,25 +8,33 @@ a brief description of me as a person and about my future plans.
 
 # UX
 
-Navigating to different sections of the page is made possible by the navigation bar, which is set at the top of the page. It also collapses on smaller screens to take up less space and make for a better user experience.
-Potential employers can quickly navigate through the navigation bar to get to the section they wish to learn about me from. 
-In the image section, you can view a handful of pictures of me throughout the last few years.
+Navigating to different sections of the page is made possible by the navigation bar, which is set at the top of the page. 
+It also collapses on smaller screens to take up less space and make for a better user experience.
+Potential employers can quickly navigate through the navigation bar to get to the section they wish to visit. 
+In the images section, you can view a handful of pictures of me throughout the last few years.
 The carousel includes a "hire me" button that links to the "contact me" section so that it is easier for the reader to navigate.
 Included a "logo picture" of me in the navigation bar so that the user can see a representation of myself at the beginning as well as adding style to the page.
-It also shows a visual representation of my ability with HTML5 and CSS
+It also shows a visual representation of my ability with HTML5 and CSS3.
 
 # Technologies
 
 HTML5
 CSS3
 Bootstrap (4.3.1)
-jQuery (3.3.1)
 
 Font Awesome v 5.11.2
 https://fontawesome.com/icons font awesome used for Social Media & Download Icon
 
 AWS
 Project Developed in AWS Cloud 9 Environment.
+
+# Testing
+During the creation of this project, I have overcome numerous obstacles I have faced along the way.
+Especially to make everything layed out how I picture it in my head and making it responsive like I imagine it to look. 
+Often times things shift when I adjust something else, which ends up ruining the whole structure of the page. I had to work around this and 
+find a way to make it all fit together nicely, which I believe I have managed to do.
+Although this has taken up a lot of my time and effort, I learned a lot from it and I am pleased with the final result.
+Getting the carousel to work how I wanted it to was also quite a hassle, but that too, I am very pleased with. 
 
 # Features
 This site makes heavy use of Bootstrap features, such as:
