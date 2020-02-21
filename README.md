@@ -34,7 +34,10 @@ Especially to make everything layed out how I picture it in my head and making i
 Often times things shift when I adjust something else, which ends up ruining the whole structure of the page. I had to work around this and 
 find a way to make it all fit together nicely, which I believe I have managed to do.
 Although this has taken up a lot of my time and effort, I learned a lot from it and I am pleased with the final result.
-Getting the carousel to work how I wanted it to was also quite a hassle, but that too, I am very pleased with. 
+Getting the carousel to work how I wanted it to was also quite a hassle, but it turned out fine in the end.
+Also, when working on this project I was having issues with my commit history, which I wasn't sure how to go about so I ended up
+just creating a seperate reposity for the latest version of my project, which I hope is fine. If it's necessary, you can find the rest of my commit history
+in my first milestone project repository called 1. Milestone-Project.
 
 # Features
 This site makes heavy use of Bootstrap features, such as:
